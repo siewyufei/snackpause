@@ -10,4 +10,4 @@ Email: siewyufei@gmail.com\
 \
 Snack Pause is a simple app that helps users pause before eating trigger foods, record hunger and craving levels, and review local history.\
 \
-Your records stay on your device.}
+Your records stay on your device.
