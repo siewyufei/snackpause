@@ -1,6 +1,6 @@
 
 
-\Snack Pause Support\
+Snack Pause Support
 \
 Thank you for using Snack Pause.\
 \
