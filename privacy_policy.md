@@ -1,6 +1,6 @@
 # Privacy Policy for Snack Pause
 
-**Effective date:** July 4, 2026
+Effective date: July 1, 2026
 
 Snack Pause is designed to help users pause before eating trigger foods, reflect on cravings, view local history and statistics, and export their own records.
 
@@ -15,15 +15,13 @@ Snack Pause does not require an account. We do not sell personal data. We do not
 You may choose to enter:
 
 - The food you are thinking about eating
-- Stress level
+- Spiritual hunger level
 - Physical hunger level
 - Loneliness level
-- Boredom level
-- Sadness level
-- Snack urge level
+- Food urge level
 - Your reminder result and local history records
 
-This information is used only to provide app features, such as reminders, trigger food analysis, healthier choice suggestions, suggested self-soothing activities, history, statistics, text-to-speech playback, and CSV export.
+This information is used only to provide app features, such as reminders, trigger food analysis, healthier choice suggestions, history, statistics, text-to-speech playback, and CSV export.
 
 ## Local Storage
 
@@ -33,15 +31,15 @@ If you delete the app, your local app data may be deleted by iOS.
 
 ## CSV Export
 
-Snack Pause lets you export selected local history as a CSV file. When you export a CSV file, you choose where to save or share it using Apple's system sharing and file tools. After export, the privacy and security of that file depends on where you save it or who you share it with.
+Snack Pause lets you export selected local history as a CSV file. When you export a CSV file, you choose where to save or share it using Apple’s system sharing and file tools. After export, the privacy and security of that file depends on where you save it or who you share it with.
 
 ## Text-to-Speech
 
-Snack Pause may read reminder text aloud using Apple's speech features on your device. The app does not use this feature to record your voice.
+Snack Pause may read reminder text aloud using Apple’s speech features on your device. The app does not use this feature to record your voice.
 
 ## App Store and Apple Services
 
-Apple may process information related to downloading, installing, updating, crash reporting, analytics, or device-level services according to Apple's own policies and your device settings. Snack Pause does not control Apple's handling of that information.
+Apple may process information related to downloading, installing, purchasing, updating, crash reporting, analytics, or device-level services according to Apple’s own policies and your device settings. Snack Pause does not control Apple’s handling of that information.
 
 ## Data We Do Not Collect
 
@@ -67,11 +65,11 @@ Snack Pause is a self-reflection and habit-support tool. It is not medical advic
 
 ## Children
 
-Snack Pause is not intended for children under the age required by applicable law to use digital services without parental consent. We do not knowingly collect children's personal data.
+Snack Pause is not intended for children under the age required by applicable law to use digital services without parental consent. We do not knowingly collect children’s personal data.
 
 ## Security
 
-Snack Pause relies on Apple's iOS app sandboxing, device security, and local storage protections. No method of storage or transmission is perfectly secure, so you should protect your device with a passcode, Face ID, Touch ID, or other appropriate safeguards.
+Snack Pause relies on Apple’s iOS app sandboxing, device security, and local storage protections. No method of storage or transmission is perfectly secure, so you should protect your device with a passcode, Face ID, Touch ID, or other appropriate safeguards.
 
 ## Your Choices
 
@@ -90,5 +88,6 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy, contact:
 
-Siew Yu Fei  
+Siew Yu Fei 
 siewyufei@gmail.com
+
