@@ -1,18 +1,18 @@
 # Terms of Use for Snack Pause
 
-Effective date: July 1, 2026
+**Effective date:** July 4, 2026
 
 These Terms of Use govern your use of Snack Pause. By using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
 ## 1. About Snack Pause
 
-Snack Pause is a self-reflection app that helps users pause before eating trigger foods. The app may provide local reminders, trigger food index information, healthier choice suggestions, history, statistics, text-to-speech playback, and CSV export.
+Snack Pause is a self-reflection app that helps users pause before eating trigger foods. The app may provide local reminders, trigger food index information, healthier choice suggestions, suggested self-soothing activities, history, statistics, text-to-speech playback, and CSV export.
 
 ## 2. Not Medical or Professional Advice
 
 Snack Pause is provided for general wellness, reflection, and habit-support purposes only.
 
-Snack Pause does not provide medical advice, nutritional advice, diagnosis, treatment, therapy, or professional counseling. The app’s reminders, scores, trigger food index, healthier choice suggestions, and statistics are informational only.
+Snack Pause does not provide medical advice, nutritional advice, diagnosis, treatment, therapy, or professional counseling. The app's reminders, scores, trigger food index, healthier choice suggestions, self-soothing activity suggestions, and statistics are informational only.
 
 You should consult a qualified doctor, dietitian, therapist, counselor, or other appropriate professional if you have concerns about eating behavior, cravings, nutrition, mental health, physical health, or any medical condition.
 
@@ -56,11 +56,11 @@ Snack Pause, including its design, text, app name, software, icons, databases, a
 
 ## 9. Third-Party Services
 
-Snack Pause may rely on Apple system features, such as iOS storage, sharing tools, file export, text-to-speech, App Store distribution, crash reporting, and device-level services. Your use of Apple services is also subject to Apple’s applicable terms and policies.
+Snack Pause may rely on Apple system features, such as iOS storage, sharing tools, file export, text-to-speech, App Store distribution, crash reporting, and device-level services. Your use of Apple services is also subject to Apple's applicable terms and policies.
 
 ## 10. Disclaimer of Warranties
 
-Snack Pause is provided “as is” and “as available.” To the maximum extent permitted by law, we disclaim all warranties, whether express, implied, or statutory, including warranties of accuracy, reliability, fitness for a particular purpose, and non-infringement.
+Snack Pause is provided "as is" and "as available." To the maximum extent permitted by law, we disclaim all warranties, whether express, implied, or statutory, including warranties of accuracy, reliability, fitness for a particular purpose, and non-infringement.
 
 ## 11. Limitation of Liability
 
@@ -74,14 +74,11 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 ## 13. Governing Law
 
-These Terms are intended to be governed by the laws applicable to the developer’s place of business, unless mandatory local consumer protection laws require otherwise.
-
-Before publishing, replace this section with the governing law and venue appropriate for your developer account or business location.
+These Terms are intended to be governed by the laws applicable to the developer's place of business, unless mandatory local consumer protection laws require otherwise.
 
 ## 14. Contact
 
 If you have questions about these Terms, contact:
 
-Siew Yu Fei
+Siew Yu Fei  
 siewyufei@gmail.com
-
